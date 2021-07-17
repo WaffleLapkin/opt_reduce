@@ -1,0 +1,18 @@
+[package]
+name = "opt_reduce"
+description = "`reduce` function for `Option<_>`"
+version = "1.0.0"
+edition = "2018"
+license = "MIT"
+repository = "https://github.com/WaffleLapkin/opt_reduce/"
+homepage = "https://github.com/WaffleLapkin/opt_reduce/"
+documentation = "https://docs.rs/opt_reduce/"
+readme = "README.md"
+
+keywords = ["option", "reduce", "std", "extension"]
+categories = ["no-std", "rust-patterns"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# none
